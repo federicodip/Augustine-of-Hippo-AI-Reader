@@ -26,11 +26,5 @@ To run this application, you need the following:
 - An OpenAI API key
 - Required Python packages (listed in `requirements.txt`)
 
-## Installation
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/saint-augustine-ai-librarian.git
-   cd saint-augustine-ai-librarian
 
