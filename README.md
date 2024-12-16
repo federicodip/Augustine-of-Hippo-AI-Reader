@@ -1,4 +1,5 @@
 # Augustine-of-Hippo-AI-Reader
+![picture](https://github.com/user-attachments/assets/b3c23916-1aa7-4c43-aa0e-618554b1c783)
 
 **Augustine of Hippo AI Reader** is a Generative AI-powered application that allows users to explore and retrieve information from the philosophical works of Saint Augustine of Hippo, one of the most influential thinkers of all time. The app combines advanced AI techniques with an accessible interface to enable both casual users and scholars to delve into Augustine's profound ideas.
 
